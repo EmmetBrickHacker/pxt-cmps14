@@ -1,16 +1,13 @@
 {
-    "name": "cmps14",
-    "description": "",
+    "name": "CMPS14",
+    "description": "MakeCode extension for CMPS14 compass",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
-        "cmps14.ts"
+        "cmps14.ts",
+        "_locales/cs/pxt-strings.json"
     ],
     "testFiles": [
         "test.ts"
