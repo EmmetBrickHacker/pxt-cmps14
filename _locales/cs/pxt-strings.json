@@ -9,8 +9,16 @@
     "CMPS14.changeAddress|block": "změnit I2C adresu z %oldAddr na %newAddr",
     
     "CMPS14.rawMagnetometerX|block": "magnetometr osa X || adresa %addr",
+    "CMPS14.rawMagnetometerY|block": "magnetometr osa Y || adresa %addr",
+    "CMPS14.rawMagnetometerZ|block": "magnetometr osa Z || adresa %addr",
+    
     "CMPS14.accelerationX|block": "akcelerometr osa X (m/s²) || adresa %addr",
+    "CMPS14.accelerationY|block": "akcelerometr osa Y (m/s²) || adresa %addr",
+    "CMPS14.accelerationZ|block": "akcelerometr osa Z (m/s²) || adresa %addr",
+    
     "CMPS14.rawGyroX|block": "gyroskop osa X || adresa %addr",
+    "CMPS14.rawGyroY|block": "gyroskop osa Y || adresa %addr",
+    "CMPS14.rawGyroZ|block": "gyroskop osa Z || adresa %addr",
 
     "CMPS14_Precision.Degrees|block": "Celé stupně (0-359°)",
     "CMPS14_Precision.Tenths|block": "Desetiny stupně (0-359.9°)",
